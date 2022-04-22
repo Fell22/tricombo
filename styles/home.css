@@ -1,0 +1,19 @@
+main {
+  
+}
+
+main h1 {
+    text-align: center;
+    color: white;
+}
+
+main img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+main p {
+    text-align: center;
+    color: white;
+}
